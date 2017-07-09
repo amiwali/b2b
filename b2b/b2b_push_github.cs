@@ -7,5 +7,7 @@ namespace b2b
 {
     public class b2b_push_github
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
